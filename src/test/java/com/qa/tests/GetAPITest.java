@@ -1,3 +1,5 @@
+// To test the REST API using HTTP Components
+
 package com.qa.tests;
 
 import java.io.IOException;
